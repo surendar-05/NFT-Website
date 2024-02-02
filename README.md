@@ -41,6 +41,8 @@ I 1.This project is an HTML/CSS NFT website.
 ### Clone the repository:
 
 Open the project in your preferred code editor:
+  In command prompt
+      git clone https://github.com/surendar-05/NFT-Website.git
 
 ## Contributing Contributions are welcome! If you find any issues or want to enhance the project:
 
