@@ -34,6 +34,7 @@ I 1.This project is an HTML/CSS NFT website.
  4.Footer with various sections including links to navigate, social media links, and legal information.
 
 ## Demo
+  https://github.com/surendar-05/NFT-Website.git
 
 ## Installation
 
