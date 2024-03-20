@@ -14,7 +14,7 @@ This project is an HTML/CSS NFT website aiming to replicate the layout and struc
 - Navbar with essential functionalities such as Home, Features, Blog, and About Us.
 - Market section displaying a message and an image.
 - Product section showcasing different product categories with "See More" links.
-- Footer with various sections including links to navigate, social media links, and legal information.
+- Footer with various sections including navigation links, social media links, and legal information.
 
 ## **Demo**
 
