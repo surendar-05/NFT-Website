@@ -32,7 +32,7 @@ git clone https://github.com/surendar-05/NFT-Website.git
 
 ## **Contributing**
 
-Contributions are welcome! If you find any issues or want to enhance the project:
+Contributions are welcome!! If you find any issues or want to enhance the project:
 
 1. Fork the repository.
 2. Create your feature branch (**`git checkout -b feature/YourFeature`**).
